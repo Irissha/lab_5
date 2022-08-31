@@ -1,4 +1,4 @@
-﻿#include<iostream>
+#include<iostream>
 //для генерации случайного массива:
 #include<time.h>
 #include<stdlib.h>
